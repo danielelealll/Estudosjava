@@ -1,0 +1,12 @@
+package primeiroprograma;
+
+public class TiposPrimitivosManipDados {
+
+	public static void main(String[] args) {
+		float nota = 8.5f;
+		System.out.printf("A nota é %.2f  ", nota);
+		
+
+	}
+
+}
